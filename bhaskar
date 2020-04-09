@@ -1,8 +1,3 @@
-pository>
-            <id>nexus</id>
-            <name>Internal Releases</name>
-            <url>http://35.188.195.20:8081/repository/maven-releases/</url>
-        </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Internal Snapshot Releases</name>
